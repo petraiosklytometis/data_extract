@@ -16,3 +16,5 @@ Os dados originais foram suprimidos, estando de acordo com a LGPD.
     - [ ] Criar uma alternativa de caso real com o Forms do Google, que salva em XLSX por padrão.
     - [ ] Armazenamento em banco de dados SQL.
     - [ ] Criação de interface web com Django.
+
+Clique para executar no [Google Colab](https://colab.research.google.com/drive/1QMmJjCRcnBjHpuaLXyOyF9bDBf21KARD?usp=sharing)
